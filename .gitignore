@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# API Key for the discord bot
+.discord_bot_key
+
+# Other sensitive numbers
+sensors_pr2.yaml
